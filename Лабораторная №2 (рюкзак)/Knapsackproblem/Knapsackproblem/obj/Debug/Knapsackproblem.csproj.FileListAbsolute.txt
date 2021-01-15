@@ -1,0 +1,45 @@
+C:\Users\user\Desktop\Knapsackproblem\Knapsackproblem\bin\Debug\Knapsackproblem.exe.config
+C:\Users\user\Desktop\Knapsackproblem\Knapsackproblem\bin\Debug\Knapsackproblem.exe
+C:\Users\user\Desktop\Knapsackproblem\Knapsackproblem\bin\Debug\Knapsackproblem.pdb
+C:\Users\user\Desktop\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Knapsackproblem\Knapsackproblem\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Knapsackproblem\Knapsackproblem\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem_MarkupCompile.cache
+C:\Users\user\Desktop\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem_MarkupCompile.lref
+C:\Users\user\Desktop\Knapsackproblem\Knapsackproblem\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.g.resources
+C:\Users\user\Desktop\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.Properties.Resources.resources
+C:\Users\user\Desktop\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.exe
+C:\Users\user\Desktop\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.pdb
+D:\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\bin\Debug\Knapsackproblem.exe.config
+D:\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\bin\Debug\Knapsackproblem.exe
+D:\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\bin\Debug\Knapsackproblem.pdb
+D:\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.csprojAssemblyReference.cache
+D:\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\MainWindow.g.cs
+D:\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\App.g.cs
+D:\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem_MarkupCompile.cache
+D:\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem_MarkupCompile.lref
+D:\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\MainWindow.baml
+D:\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.g.resources
+D:\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.Properties.Resources.resources
+D:\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.csproj.GenerateResource.cache
+D:\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.csproj.CoreCompileInputs.cache
+D:\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.exe
+D:\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.pdb
+C:\Users\user\Desktop\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\bin\Debug\Knapsackproblem.exe.config
+C:\Users\user\Desktop\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\bin\Debug\Knapsackproblem.exe
+C:\Users\user\Desktop\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\bin\Debug\Knapsackproblem.pdb
+C:\Users\user\Desktop\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem_MarkupCompile.cache
+C:\Users\user\Desktop\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem_MarkupCompile.lref
+C:\Users\user\Desktop\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.g.resources
+C:\Users\user\Desktop\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.Properties.Resources.resources
+C:\Users\user\Desktop\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.exe
+C:\Users\user\Desktop\Технологии программирования\Лабораторная №2 (рюкзак)\Knapsackproblem\Knapsackproblem\obj\Debug\Knapsackproblem.pdb
